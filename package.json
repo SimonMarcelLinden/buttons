@@ -1,7 +1,20 @@
 {
-  "name": "buttons",
+  "name": "@simon.marcel.linden/buttons",
   "version": "1.0.0",
   "description": "",
+  "author": {
+    "name": "Simon Marcel Linden",
+    "email": "info@snerve.de"
+  },
+  "homepage": "https://github.com:SimonMarcelLinden/buttons.git#README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:SimonMarcelLinden/buttons.git"
+  },
+  "bugs": {
+    "url": "https://github.com:SimonMarcelLinden/buttons.git/issues"
+  },
+  "license": "ISC",
   "main": "dist/buttons.ssr.js",
   "browser": "dist/buttons.esm.js",
   "module": "dist/buttons.esm.js",
