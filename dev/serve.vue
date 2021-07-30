@@ -13,6 +13,6 @@ export default Vue.extend({
 
 <template>
   <div id="app">
-    <buttons-sample />
+    <lButton >vButton</lButton>
   </div>
 </template>
